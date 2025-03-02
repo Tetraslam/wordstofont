@@ -20,4 +20,5 @@ def run_hello():
     hello_world.main()
 
 if __name__ == "__main__":
-    run_hello() 
+    run_hello()
+    print("hi bensen")
